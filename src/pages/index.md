@@ -19,7 +19,7 @@ sections:
   section_id: cat
   component: TextImageBlock
   text: Hi this is my text and image block.
-  image: http://res.cloudinary.com/c-o-d-and-d-wolf/image/upload/v1571098427/samples/landscapes/nature-mountains.jpg
+  image: http://res.cloudinary.com/c-o-d-and-d-wolf/image/upload/v1571098428/samples/animals/kitten-playing.gif
 menus:
   main:
     title: Home
