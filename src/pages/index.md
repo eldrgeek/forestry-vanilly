@@ -6,7 +6,7 @@ sections:
   title: These are breadcrumbs
   section_id: hero
   component: HeroBlock
-  subtitle: "### Here's where I've com and gone"
+  subtitle: "### This is my trail of breadcrumbs"
   image: ''
 - type: postlist
   template: postlist
