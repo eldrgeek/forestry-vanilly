@@ -30,7 +30,7 @@ sections:
     ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa
     faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc
     adipiscing lacinia erat ut sit. Arcu amet. "
-  image: images/art.svg
+  image: http://res.cloudinary.com/c-o-d-and-d-wolf/image/upload/v1571098428/samples/animals/kitten-playing.gif
 menus:
   main:
     title: Home
